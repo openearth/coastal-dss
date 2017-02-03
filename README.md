@@ -1,4 +1,4 @@
 # coastal-dss
-Decision support framework for coastal risk management: a Bayesian Network approach
+The coastal-dss is a tool based on a Bayesian network to support decision making in coastal risk management.
 
 Documentation can be found at https://publicwiki.deltares.nl/display/FEWSDOC/Bayesian+Network+Adaptor
